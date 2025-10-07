@@ -1,0 +1,61 @@
+html{
+    background-color: FFFFFF !important;
+    margin-bottom: 50px;
+}
+
+header{
+    text-align: center;
+    font-family: 'Arial Black', 'Times New Roman', sans-serif;
+    color: FFFFFF;
+    background-color: 006747;
+}
+
+h1{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Arial Black', 'Times New Roman', sans-serif;
+    color: FFFFFF;
+}
+h2{
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Arial Black', 'Times New Roman', sans-serif;
+    color: FFFFFF;
+}
+
+h3{
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    color: rgba(52, 78, 65, 1);
+    background-color: 006747;
+}
+
+h4, h5, h6{
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    color: rgba(52, 78, 65, 1);
+    background-color: 006747;
+    text-indent: 20px;
+}
+
+li{
+    align-content: left;
+    font-family:'Times New Roman', Times, serif;
+    color: 006747;
+}
+
+p{
+    align-content: left;
+    text-indent: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color: CFC493;
+}
+
+ 
+ 006747
+ CFC493
+ FFFFFF
+ 005432
+ EDEBD1
+ DBE442
+ 9CCB3B
