@@ -31,8 +31,14 @@ nav ul {
     padding: 0;
     margin: 15px 0 0 0;
     display: flex;
-    justify-content: center;
+    justify-content: center; 
+    align-items: center;
     gap: 25px;
+    flex-wrap: wrap;
+}
+
+nav li {
+    display: inline-block;
 }
 
 nav a {
